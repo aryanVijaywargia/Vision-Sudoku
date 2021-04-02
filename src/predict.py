@@ -7,7 +7,7 @@ import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
 import matplotlib.pyplot as plt
-from image_processes import extract, scale_and_centre, order_corner_points
+from src.image_processes import extract, scale_and_centre, order_corner_points  
 
 
 def display_image(img):
@@ -65,7 +65,7 @@ def predict(img_grid):
 
     # plt.imshow(image.reshape(28, 28), cmap='Greys')
     # plt.show()
-    model = load_model('cnn.hdf5')
+    model = load_model('src/cnn.hdf5')
     pred = model.predict(image.reshape(1, 28, 28, 1), batch_size=1)
 
     # print(pred.argmax())
