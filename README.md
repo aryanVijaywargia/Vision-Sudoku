@@ -1,3 +1,5 @@
+A Sudoku solver which reads a sudoku puzzle from an image using opencv and then solves it using backtracking.
+
 ## Run
 On linux run
 ```
