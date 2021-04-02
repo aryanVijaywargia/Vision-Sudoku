@@ -28,19 +28,19 @@ python3 main.py
 ![](images/pre_processed.png) \
 ![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/processed.png) -->
 ### Sudoku Extraction
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/pre_processed.png) \
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/cropped.png) \
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/processed_sudoku.png) \
+![](images/pre_processed.png) \
+![](images/cropped.png) \
+![](images/processed_sudoku.png) \
 
 
 ### Interpreting the Digits
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/extracted_cell.png) \
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/cell_contour.png) \
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/model.png) 
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/number.png) \
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/predicted_num.png) 
+![](images/extracted_cell.png) \
+![](images/cell_contour.png) \
+![](images/model.png) 
+![](images/number.png) \
+![](images/predicted_num.png) 
 ### Solving
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/sudokuboard.png) \
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/Solved.png) 
+![](images/sudokuboard.png) \
+![](images/Solved.png) 
 
 
