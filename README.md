@@ -1,9 +1,9 @@
 ## Run
-If os is linux then run
+On linux run
 ```
 python main.py
 ```
-else run
+On windows run
 ```
 python3 main.py
 ```
