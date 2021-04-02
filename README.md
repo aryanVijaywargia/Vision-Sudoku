@@ -1,4 +1,9 @@
 ## Run
+If os is linux then run
+```
+python main.py
+```
+else run
 ```
 python3 main.py
 ```
