@@ -7,7 +7,7 @@ import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
 import matplotlib.pyplot as plt
-from image_prcoesses import extract, scale_and_centre, order_corner_points
+from image_processes import extract, scale_and_centre, order_corner_points
 
 
 def display_image(img):

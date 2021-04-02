@@ -1,13 +1,13 @@
 import numpy
-from keras.datasets import mnist
-from keras.models import Sequential
-from keras.layers import Dense, Dropout, Flatten
-from keras.layers import Conv2D, MaxPooling2D, MaxPool2D
-from keras import backend as K
+from tensorflow.keras.datasets import mnist
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout, Flatten
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, MaxPool2D
+from tensorflow.keras import backend as K
 import matplotlib.pyplot as plt
 
 # the data, split between train and test sets
-from keras.utils import np_utils
+from tensorflow.keras.utils import np_utils
 from matplotlib import pyplot
 from sklearn.model_selection import KFold
 from tensorflow.python.keras import Sequential
