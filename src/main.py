@@ -1,5 +1,5 @@
 
-from image_prcoesses import extract as extract_img_grid
+from image_processes import extract as extract_img_grid
 # from digit_Recognition_CNN import run as create_and_save_Model
 from predict import extract_number_image as sudoku_extracted
 from solve import  ConstarintBacktracking as solve_sudoku
