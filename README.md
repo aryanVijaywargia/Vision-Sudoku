@@ -23,7 +23,7 @@ python3 main.py
 
 ## Steps in deatil
 ### Sudoku
-![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/sudoku_1.jpg) 
+![](images/sudoku_1.jpg) 
 <!-- ### Pre Processing the Image
 ![](images/pre_processed.png) \
 ![](https://github.com/Joy2469/Sudoku_AI/blob/master/images/processed.png) -->
