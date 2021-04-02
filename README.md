@@ -36,9 +36,9 @@ python3 main.py
 ### Interpreting the Digits
 ![](images/extracted_cell.png) \
 ![](images/cell_contour.png) \
-![](images/model.png) 
-![](images/number.png) \
-![](images/predicted_num.png) 
+<!-- ![](images/model.png)  -->
+<!-- ![](images/number.png) \ -->
+<!-- ![](images/predicted_num.png)  -->
 ### Solving
 ![](images/sudokuboard.png) \
 ![](images/Solved.png) 
